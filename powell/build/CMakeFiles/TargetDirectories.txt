@@ -1,0 +1,3 @@
+/home/wky/Desktop/learn_ceres/powell/build/CMakeFiles/rebuild_cache.dir
+/home/wky/Desktop/learn_ceres/powell/build/CMakeFiles/powell.dir
+/home/wky/Desktop/learn_ceres/powell/build/CMakeFiles/edit_cache.dir

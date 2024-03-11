@@ -1,0 +1,4 @@
+/home/wky/Desktop/learn_ceres/derivatives/build/CMakeFiles/rebuild_cache.dir
+/home/wky/Desktop/learn_ceres/derivatives/build/CMakeFiles/numeric.dir
+/home/wky/Desktop/learn_ceres/derivatives/build/CMakeFiles/edit_cache.dir
+/home/wky/Desktop/learn_ceres/derivatives/build/CMakeFiles/analytic.dir
